@@ -12,11 +12,10 @@ Create tickets
 
 Please use the `bugtracker`_ **before** starting some work:
 
-* check if the bug or feature request has already been filed. It may have been
-  answered too!
-* else create a new ticket.
-* if you plan to contribute, tell us, but don't wait for us! So that we are
-  given an opportunity to discuss, join forces or give feedback as soon as
+* Check if the bug or feature request has already been filed or if it may have been answered.
+* Else create a new ticket.
+* If you plan to contribute, tell us, but don't wait for us! So that we are
+  given the opportunity to discuss, join forces or give feedback as soon as
   possible.
 
 
